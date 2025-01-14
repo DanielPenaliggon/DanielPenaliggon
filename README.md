@@ -5,5 +5,8 @@ Hi there! My name is Daniel Penaliggon, I'm a 23 year old Physics graduate from 
 The purpose of this github account is to showcase previous and current Python and Machine Learning projects for prospective employers. 
 For any desired contact or questions, I've given my email address below. Many thanks in advance! 
 
+### Example Coding and ML Projects: 
+Please see the "Example-Python-Projects" repository below for examples of my previous work! 
+
 ### Contact Email: 
 dan.penaliggon@gmail.com
